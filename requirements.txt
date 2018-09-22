@@ -1,5 +1,2 @@
-Flask==0.12.2
-line-bot-sdk==1.5.0
-linebot.exceptions
-linebot.models
-os
+line-bot-sdk
+flask
